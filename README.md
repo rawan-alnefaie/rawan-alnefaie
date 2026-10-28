@@ -15,7 +15,7 @@ I enjoy exploring data, building machine learning models, and contributing to pr
 - **Visualization:** Power BI, Matplotlib, Seaborn, Excel
 - **Machine Learning:** Scikit-learn, Decision Trees, Model Evaluation
 - **AI Project Experience:** Candidate–Job Matching, Cross-Encoder Reranking
-- **AI Training:** LLMs, RAG, Embeddings, AI Agent Workflows
+- **AI Training:** LLMs, RAG, Embeddings, AI Agent Workflows, LangChain, OpenAI API
 - **Tools:** Git, GitHub, Streamlit, Visual Studio Code
 
 ## 🚀 Featured Projects
